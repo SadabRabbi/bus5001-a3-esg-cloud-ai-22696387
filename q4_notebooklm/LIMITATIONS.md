@@ -1,0 +1,6 @@
+# Limitations of this evaluation
+1. One scenario, three sources, one tool version, one session on 16 October 2026. Results may differ with other documents or later versions.
+3. Initially 38 claims were NOT CHECKED because only part of the RMIT text was available. They were resolved later the same day against the full PDFs (RMIT 2024: 148 pages; RMIT 2025: 170 pages; page numbers in `accuracy_checks/RMIT_pdf_verification.md` are PDF page numbers, not printed ones). One claim, the E3 page citations for the Melbourne report, remains unchecked and is excluded from every rate. Checking was done with AI assistance, not by the student reading every page.
+4. The audio overview was checked from a timestamped transcript supplied by the student, not from the audio itself; tone and delivery were not assessed.
+5. Bias, privacy handling by the provider and time saved compared with manual reading were not measured.
+6. The study guide and audio overview covered only one of three attached sources; the cause was not established.

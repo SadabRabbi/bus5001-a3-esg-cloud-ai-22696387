@@ -1,0 +1,11 @@
+E6a | NotebookLM chat (unsupported-information trap) | prompt: "What is the University of Melbourne's target for Scope 3 emissions reduction by 2040, according to the uploaded sources?"
+Time: not recorded
+Output pasted in by me, 16 Oct 2026. Saved unchanged:
+
+The uploaded sources do not state or mention any target for Scope 3 emissions reduction by 2040 for the University of Melbourne.
+The University of Melbourne Sustainability Report 2022 frames its climate targets around 2025 and 2030 deadlines[1]. The report specifies the following relevant targets and Scope 3 commitments:
+
+* 2025 Operational Target: Achieve Climate Active certified carbon neutrality across University operations[1][2].
+* 2030 Climate Positive Target: Achieve climate positive status[2].
+* Scope 3 & Investment Portfolio Target (2030): Formally include the entire Investment Portfolio in Scope 3 emissions reporting and climate positive commitments by 2030[3][4].
+* Scope 3 Baseline Expansion: In 2022, the University expanded its Scope 3 reporting boundary to include its full supply chain procurement spend of over $1 billion, capital works/construction carbon, and staff working-from-home emissions[5][6].

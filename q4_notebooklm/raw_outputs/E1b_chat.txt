@@ -1,0 +1,15 @@
+E1-b | NotebookLM chat | prompt: "Using only the uploaded sources, what does the RMIT Sustainability Annual Report 2024 report about the share of its onshore grid electricity that is renewable, and how is that electricity sourced? Quote the exact figures and cite the source passage."
+Time: not recorded
+Output pasted in by me, 16 Oct 2026. Saved unchanged:
+
+According to the RMIT 2024 Sustainability Annual Report, the University details the following regarding its renewable onshore grid electricity:
+1. Share of Onshore Grid Electricity That Is Renewable
+
+* Share: **100%**[1][2].
+* Exact Quote: The report notes that RMIT *"maintained its 100% onshore grid electricity supplied by renewable sources"*[1] and confirms that *"From 1 January 2023, all onshore grid electricity was sourced from renewable energy"*[2].
+
+2. How the Electricity Is Sourced
+The report states that this renewable electricity is sourced through:
+
+* Wind Farm Partnerships: Supplied *"through our wind farm partnerships in regional Victoria"*[1].
+* Melbourne Renewable Energy Projects (MREP): The *"Melbourne Renewable Energy Projects 1 & 2 supplied 50,107MWh of renewable electricity to RMIT in 2024"*[2].

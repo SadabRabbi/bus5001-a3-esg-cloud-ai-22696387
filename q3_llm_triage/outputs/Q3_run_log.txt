@@ -1,0 +1,143 @@
+Q3 RUN LOG (BUS5001 A3)
+Model: Gemini 3.5 Flash Lite (gemini-3.5-flash-lite), Google AI Studio chat
+Date: 16 Oct 2026 (interface times 11:35 AM to 11:51 AM)
+Prompt version: v2 (prompt_M1.txt, prompt_M2.txt, prompt_M3.txt; identical except the final Message line)
+Settings (read from screenshot Q3_screenshot1_run.png): Thinking level Minimal; Structured outputs OFF; Code execution OFF; Function calling OFF; Grounding with Google Search OFF. Temperature: not visible in screenshot, not recorded (assumed interface default).
+Grounding with Google Search: OFF for all 9 runs (confirmed by user, 16 Oct 2026)
+Each run in a NEW chat. Prompt not changed between runs. Outputs pasted by the user as shown by the interface.
+
+Expected labels (author-written before running):
+M1: ENVIRONMENTAL_WATER / HIGH / FACILITIES_MAINTENANCE / human review: No
+M2: PROCUREMENT_SUPPLIER or GOVERNANCE_POLICY / HIGH / PROCUREMENT or GOVERNANCE_COMPLIANCE / human review: Yes
+M3: ACCESSIBILITY_INCLUSION / HIGH / ACCESSIBILITY_SERVICES / human review: No
+
+=====================================================
+M1 run 1 (11:35 AM)
+{
+"issue_category": "ENVIRONMENTAL_WATER",
+"urgency": "HIGH",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "FACILITIES_MAINTENANCE",
+"escalation_reason": "Ongoing water leak running all morning needs prompt resolution.",
+"data_sensitivity_risk": "NONE",
+"brief_summary": "Water leak reported in Building C running all morning.",
+"confidence": 0.95,
+"evidence_span": "water leak in Building C that has been running all morning",
+"human_review_required": true
+}
+
+M1 run 2 (11:43 AM)
+{
+"issue_category": "ENVIRONMENTAL_WATER",
+"urgency": "MEDIUM",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "FACILITIES_MAINTENANCE",
+"escalation_reason": null,
+"data_sensitivity_risk": "NONE",
+"brief_summary": "A water leak has been running all morning in Building C.",
+"confidence": 0.95,
+"evidence_span": "There is a water leak in Building C that has been running all morning.",
+"human_review_required": true
+}
+
+M1 run 3 (11:44 AM)
+{
+"issue_category": "ENVIRONMENTAL_WATER",
+"urgency": "MEDIUM",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "SUSTAINABILITY_TEAM",
+"escalation_reason": null,
+"data_sensitivity_risk": "NONE",
+"brief_summary": "A water leak has been running all morning in Building C.",
+"confidence": 0.95,
+"evidence_span": "There is a water leak in Building C that has been running all morning.",
+"human_review_required": true
+}
+
+M2 run 1 (11:45 AM)
+{
+"issue_category": "PROCUREMENT_SUPPLIER",
+"urgency": "MEDIUM",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "PROCUREMENT",
+"escalation_reason": "Supplier may not meet sustainability policy, requiring review by procurement.",
+"data_sensitivity_risk": "MEDIUM",
+"brief_summary": "Report that a supplier may not comply with the organization's sustainability policy.",
+"confidence": 0.85,
+"evidence_span": "one of our suppliers may not meet our sustainability policy",
+"human_review_required": true
+}
+
+M2 run 2 (11:46 AM)
+{
+"issue_category": "PROCUREMENT_SUPPLIER",
+"urgency": "MEDIUM",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "PROCUREMENT",
+"escalation_reason": "Supplier sustainability policy concern reported requiring investigation.",
+"data_sensitivity_risk": "MEDIUM",
+"brief_summary": "Report that a supplier may not comply with the sustainability policy.",
+"confidence": 0.85,
+"evidence_span": "one of our suppliers may not meet our sustainability policy",
+"human_review_required": true
+}
+
+M2 run 3 (11:47 AM) (returned as a single compact line)
+{"issue_category":"PROCUREMENT_SUPPLIER","urgency":"MEDIUM","sentiment":"NEUTRAL","followup_required":true,"recommended_team":"PROCUREMENT","escalation_reason":"Supplier may not meet sustainability policy.","data_sensitivity_risk":"MEDIUM","brief_summary":"Report that a supplier may not comply with the sustainability policy.","confidence":0.85,"evidence_span":"one of our suppliers may not meet our sustainability policy","human_review_required":true}
+
+M3 run 1 (11:48 AM)
+{
+"issue_category": "ACCESSIBILITY_INCLUSION",
+"urgency": "HIGH",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "ACCESSIBILITY_SERVICES",
+"escalation_reason": "An accessible entrance has been blocked for two days, requiring action within one business day.",
+"data_sensitivity_risk": "NONE",
+"brief_summary": "The accessible entrance near the main building has been blocked for two days.",
+"confidence": 0.95,
+"evidence_span": "The accessible entrance near the main building has been blocked for two days.",
+"human_review_required": true
+}
+
+M3 run 2 (11:50 AM)
+{
+"issue_category": "ACCESSIBILITY_INCLUSION",
+"urgency": "HIGH",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "ACCESSIBILITY_SERVICES",
+"escalation_reason": "An accessible entrance has been blocked for two days, creating a blocked accessibility route requiring urgent action.",
+"data_sensitivity_risk": "NONE",
+"brief_summary": "The accessible entrance near the main building has been blocked for two days.",
+"confidence": 0.95,
+"evidence_span": "The accessible entrance near the main building has been blocked for two days.",
+"human_review_required": true
+}
+
+M3 run 3 (11:51 AM)
+{
+"issue_category": "ACCESSIBILITY_INCLUSION",
+"urgency": "HIGH",
+"sentiment": "NEUTRAL",
+"followup_required": true,
+"recommended_team": "ACCESSIBILITY_SERVICES",
+"escalation_reason": "An accessible entrance has been blocked for two days, requiring action within one business day.",
+"data_sensitivity_risk": "NONE",
+"brief_summary": "The accessible entrance near the main building is blocked.",
+"confidence": 0.95,
+"evidence_span": "The accessible entrance near the main building has been blocked for two days.",
+"human_review_required": true
+}
+
+=====================================================
+CHECKS RUN BY AUTHOR'S ASSISTANT (Python json.loads and substring test, 16 Oct 2026)
+All 9 outputs: valid JSON; all 11 fields present; issue_category and recommended_team in the allowed lists; evidence_span is an exact substring of the message (M1 run 1 span is a shorter exact sub-quote); brief_summary under 25 words.
+(Transcription note: outputs were transcribed from the user's paste; the user should still confirm on jsonlint.com for the screenshot evidence.)
+
+LABEL CHANGE (disclosed, 16 Oct 2026): the expected urgency for M2 above was written as HIGH before the runs. After seeing that the model returned MEDIUM in all three M2 runs, the author changed the expected urgency to MEDIUM in the report draft. The original label is kept above unchanged for transparency. Urgency agreement is 7/9 with the revised label and 4/9 with the original.

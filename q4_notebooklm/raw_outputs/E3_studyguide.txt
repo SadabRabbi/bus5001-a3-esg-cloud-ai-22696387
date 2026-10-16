@@ -1,0 +1,253 @@
+E3 | NotebookLM study guide and FAQ | prompt: "Create a study guide with a short FAQ based only on the uploaded sources. Cover emissions targets, reporting frameworks, and electricity sourcing. Add a source reference for each answer and mark any answer that the sources do not fully support."
+Time: not recorded
+NotebookLM first replied in chat: "I have started generating your Sustainability Reports Study Guide & FAQ, covering emissions targets, reporting frameworks, and electricity sourcing across the University of Melbourne 2022 and RMIT 2024/2025 reports. It includes specific source references for every question and clearly marks areas where the source information is partial or incomplete."
+Study guide text pasted in by me, 16 Oct 2026. Saved unchanged (tables and diagrams as pasted):
+
+Study Guide: Environmental Sustainability, Emissions Targets, Reporting Frameworks, and Electricity Sourcing
+
+Executive Summary & Source Context Overview
+
+This study guide provides a detailed synthesis of institutional sustainability frameworks, carbon targets, reporting standards, electricity procurement, and emissions inventories.
+
+Source Availability Notice
+
+* Provided Source Context: Excerpts from the University of Melbourne Sustainability Report 2022 ("Mobilising for Action").
+* Omitted Sources / Data Gaps: The prompt directives reference the RMIT 2024 Sustainability Annual Report and the RMIT 2025 Sustainability Annual Report. These documents were not provided in the source context. In strict compliance with source fidelity rules, all queries, comparisons, and analysis regarding RMIT 2024 and 2025 are explicitly flagged as [UNSUPPORTED BY PROVIDED SOURCE CONTEXT].
+
+Module 1: Strategic Governance and Institutional Architecture
+
+1.1 Guiding Strategic Frameworks
+
+The University of Melbourne’s sustainability operations are anchored by three core strategic documents:
+
+1. Sustainability Plan 2030 (SP2030): Launched in May 2022, SP2030 establishes an eight-year roadmap structured across three core domains (Amplifying action, Mobilising knowledge, and Walking the talk).
+2. Sustainability Charter: Defines the overarching principles and institutional commitments to environmental stewardship.
+3. Advancing Melbourne: The master institutional strategy, ensuring sustainability is integrated across teaching, research, global engagement, and place-making.
+
+1.2 Administrative and Operational Governance
+
+Governance structures ensure cross-portfolio accountability and delivery of sustainability targets:
+
+* Sustainability Advisory Group (SAG): Convened in 2022 to guide the implementation of SP2030, replacing the former Sustainability Executive (which directed the Sustainability Plan 2017–2020). Chaired by senior leaders, SAG comprises executives, academic/professional staff, and student representatives, meeting quarterly to advise the Chief Operating Officer (Paul Axup).
+* Sustainability Strategy Team (Chancellery / CFO Group): Led by Katie Mee; responsible for strategic direction, SP2030 coordination, performance tracking, and formal ESG reporting.
+* Sustainability Team (Business Services / COO Portfolio): Led by Sue Hopkins; manages operational sustainability across campuses, including energy, water, waste, transport, biodiversity, and sustainable event logistics.
+
+                         [ Vice-Chancellor ]
+                                  |
+                        [ University Council ]
+                                  |
+                       [ University Executive ]
+                                  |
+              +-------------------+-------------------+
+              |                                       |
+    [ Chancellery / CFO Group ]             [ COO Portfolio / Business Services ]
+              |                                       |
+  [ Sustainability Strategy Team ]              [ Operational Sustainability Team ]
+   (SP2030 Governance & Reporting)             (Energy, Waste, Water, Transport)
+              |                                       |
+              +-------------------+-------------------+
+                                  |
+                 [ Sustainability Advisory Group (SAG) ]
+
+
+1.3 Faculty-Level Integration & Research Centers
+
+To embed sustainability into localized academic and administrative units, dedicated leadership roles were created:
+
+* Faculty of Science: Associate Dean, Environment and Sustainability (Assoc. Prof. Robyn Schofield, appointed 2021).
+* Faculty of Medicine, Dentistry and Health Sciences (MDHS): Associate Dean, Healthcare Sustainability (Dr. Forbes McGain) and Enterprise Professor in Sustainable Healthcare (Dr. Eugenie Kayak, appointed 2022).
+* Faculty of Architecture, Building and Planning (ABP): Assistant Dean, Sustainability (Dr. James Helal, appointed early 2023).
+* Melbourne Graduate School of Education (MGSE): Associate Dean, Sustainability (recruitment initiated early 2023).
+* Curriculum Fellows: Positioned in Arts, FEIT, FBE, and MGSE to embed sustainability concepts into coursework.
+* Flagship Research Institutes: Melbourne Climate Futures (MCF), Melbourne Energy Institute (MEI), Indigenous Knowledges Institute (IKI), Melbourne Social Equity Institute (MSEI), and Melbourne Centre for Cities (MCC).
+
+Module 2: Sustainability Reporting Frameworks & Regulatory Standards
+
+The University of Melbourne aligns its annual disclosures with international standards and domestic regulatory mechanisms:
+
++-----------------------------------------------------------------------------------+
+|                            REPORTING FRAMEWORKS & STANDARDS                       |
++-----------------------------------+-----------------------------------------------+
+| Global Reporting Initiative (GRI) | Utilizes GRI Reporting Principles to structure|
+|                                   | transparent performance tracking.             |
++-----------------------------------+-----------------------------------------------+
+| ISSB Standards (Draft)            | Draws on International Sustainability Standards|
+|                                   | Board draft disclosures for climate & finance.|
++-----------------------------------+-----------------------------------------------+
+| ISO 14001:2015                    | Framework for Environmental Management        |
+|                                   | Systems (EMS) addressing pollution & risk.    |
++-----------------------------------+-----------------------------------------------+
+| Climate Active Standard           | Guideline for standardizing Greenhouse Gas    |
+|                                   | Inventories (GHGI) toward net zero targets.   |
++-----------------------------------+-----------------------------------------------+
+| UN Sustainable Development Goals  | Maps activities across all 17 global SDGs     |
+| (SDGs)                            | to evaluate broader societal contribution.    |
++-----------------------------------+-----------------------------------------------+
+
+
+Key Regulatory Alignments:
+
+* Federal Climate Change Bill 2022: Sets national emissions reduction targets of 43% below 2005 levels by 2030 and net zero by 2050.
+* QS Sustainability Rankings: University of Melbourne ranked 51st globally in the inaugural Quacquarelli Symonds world university sustainability rankings.
+
+Module 3: Greenhouse Gas (GHG) Inventory & Baseline Analysis
+
+In 2022, specialist consultancy Pangolin Associates was commissioned to develop a comprehensive, Climate Active-compliant Greenhouse Gas Inventory (GHGI). This baseline expansion incorporated supplier procurement spend exceeding $1 billion across all purchasing categories, alongside upfront carbon from capital construction.
+
+3.1 Emissions Summary by Scope (2022 Baseline)
+
+* Gross Total Emissions: 219,488 tCO₂-e
+* Scope 1 (Direct Emissions): 16,852 tCO₂-e (Primarily natural gas for building heating and domestic hot water).
+* Scope 2 (Indirect - Electricity): 34,444 tCO₂-e (Grid-derived electricity generation).
+* Scope 3 (Indirect Supply Chain & Value Chain): 168,192 tCO₂-e (Accounts for 76.6% of the overall footprint).
+
+Gross Emissions Breakdown (2022)
+Scope 1: [███                        ] 16,852 tCO₂-e (7.7%)
+Scope 2: [██████                     ] 34,444 tCO₂-e (15.7%)
+Scope 3: [███████████████████████████] 168,192 tCO₂-e (76.6%)
+Total: 219,488 tCO₂-e
+
+
+3.2 Granular Breakdown of Emissions Categories
+
+Emission Scope	Category / Description	Emissions (tCO₂-e)	Accounting Methodology / Notes
+Scope 1	Stationary Fuels (Natural Gas, LPG)	15,098	Direct combustion in campus boilers/heating
+Scope 1	Synthetic Greenhouse Gases	1,501	Refrigerant leakages in HVAC/cooling units
+Scope 1	Transport Fuels (Fleet Vehicles)	253	Fleet vehicle fuel consumption
+Scope 2	Grid Electricity Consumption	34,444	Location-based grid power emissions
+Scope 3	Professional Services	40,413	Estimated via procurement spend analysis
+Scope 3	Construction and Repair Services	39,293	LCAs (Student Precinct) + procurement spend
+Scope 3	Products, Materials and Equipment	22,839	Expenditure-based carbon modeling
+Scope 3	Business Air Travel (Flights)	15,581	Air Travel distance/booking emissions
+Scope 3	ICT Services	11,339	Telecommunications and cloud/data spend
+Scope 3	Office Supplies and Services	8,159	Procurement data modeling
+Scope 3	Employees (Commuting & WFH)	7,345	Staff survey (WFH alone = 2,313 tCO₂-e)
+Scope 3	Advertising and Marketing Services	5,826	Expenditure-based modeling
+Scope 3	Electricity (Scope 3 Losses)	4,559	Transmission/distribution grid losses
+Scope 3	ICT Equipment	3,594	Hardware procurement expenditure
+Scope 3	Food and Beverage	2,597	Catering & retail supply chain modeling
+Scope 3	Business Travel (Other)	2,272	Ground transport, accommodation, transit
+Scope 3	Stationary Fuels (Scope 3)	1,202	Upstream fuel extraction/transport losses
+Scope 3	Postage, Courier and Logistics	1,087	Logistics expenditure
+Scope 3	Waste	1,077	On-campus waste landfill/processing
+Scope 3	Water and Wastewater	946	Municipal water supply & treatment processing
+Scope 3	Transport Fuels (Scope 3)	63	Upstream fuel supply chain processing
+
+Module 4: Electricity Sourcing, Renewable Power & Infrastructure Upgrades
+
+4.1 Electricity Sourcing Strategy
+
+The University maintained net zero emissions from electricity for the second consecutive year in 2022.
+
+       [ Grid Electricity Input ]
+                   |
+     +-------------+-------------+
+     |                           |
+[ PPA Contracts ]      [ On-Campus Solar PV ]
+(Murra Warra & Crowlands) (44 Buildings / >11,000 Panels)
+  67 GWh Purchased             >3 GWh Generated
+     |                           |
+     +-------------+-------------+
+                   |
+     [ Voluntary LGC Retirement ]
+      (49,575 LGCs Surrendered)
+                   |
+  [ 64% Renewable Electricity Mix ]
+                   |
+  [ Net Zero Electricity (Scope 2) ]
+
+
+* Power Purchase Agreements (PPAs): Contracted with the Murra Warra and Crowlands wind farms, purchasing 67 GWh of electricity in 2022.
+* Large-scale Generation Certificates (LGCs): Voluntarily retired 49,575 LGCs (sourced primarily from the wind farm PPAs) to ensure 64% of total electricity consumed was directly matched with renewable sources.
+* On-Campus Solar Generation: Installed across 44 buildings, comprising over 11,000 PV panels. Generates over 3 GWh of clean energy annually (saving ~3,000 tonnes CO₂-e; equivalent to powering 650 homes).
+
+4.2 Energy Efficiency and Electrification Initiatives
+
+* Smart Campus Energy Upgrades: Invested $6 million in LED lighting, chiller replacements, PV expansion, and HVAC optimization. Yields annual savings of 3.8 GWh (~820 homes powered).
+* Gas-to-Electricity Decarbonization Program:
+  * Following a 2021 audit of Parkville gas assets, a prioritization matrix was established to eliminate natural gas.
+  * 2022 Pilots: Replaced 13 gas-fired domestic hot water units across 10 buildings with electric heat pumps.
+  * Scoping commenced for full electrification of the Burnley campus.
+
+Module 5: Offsetting Mechanisms & Carbon Neutrality Pathways
+
+5.1 Carbon Targets
+
+* 2025 Target: Achieve Climate Active Carbon Neutral Certification across all institutional operational scopes.
+* 2030 Target: Achieve Climate Positive status (reducing and offsetting beyond net zero footprint).
+
+5.2 Offsetting Allocation Framework (2022)
+
++----------------------------------------------------------------------------------------+
+|                               Purchased Offset Allocation                              |
++-------------------------------------------+--------------------------------------------+
+| Scope 2 Offsetting (39,003 tCO₂-e)        | Sourced via ACCU, VCS/Verra, Gold Standard |
+| Scope 3 Air Travel (15,581 tCO₂-e)        | Sourced via VCS/Verra Wind Project (China) |
+| Fleet Offsetting (754 tCO₂-e)             | Sourced via Greenfleet (Reforestation)     |
++-------------------------------------------+--------------------------------------------+
+
+
+Detailed Breakdown of Purchased Carbon Offsets:
+
+Project Description	Standard / Unit Type	Location	Scope Offsetting Allocation	Offset Volume (tCO₂-e)
+Victorian Biogas to Energy Projects	ACCU	Victoria, Australia	Scope 2 Electricity	19,683
+Musi Run-of-River Hydropower Project	Verra / VCS	Indonesia	Scope 2 Electricity	12,395
+Liucheng Biomass Power Generation	Verra / VCS	China	Scope 2 Electricity	2,975
+Eco Australia (Mt Sandy / Hexhou)	ABU + Gold Standard	SA, Australia / China	Scope 2 Electricity	2,479
+Wollert Landfill Gas Project	ACCU	Victoria, Australia	Scope 2 Electricity	991
+Nullawarra Station #2 Forest Protection	ACCU	NSW, Australia	Scope 2 Electricity	317
+CECIC HKE Zhangbei Lvnaobao Wind	Verra / VCS	China	Scope 2 Electricity	163
+CECIC HKE Zhangbei Lvnaobao Wind	Verra / VCS	China	Scope 3 Flights	15,581
+Total GHGI Offsets				54,584
+Greenfleet Reforestation (FY 21/22)*	Non-Climate Active	Australia	Fleet Offsetting	754
+
+*Note: Fleet combustion emitted 253 tCO₂-e. Greenfleet offsets fund native tree planting exceeding fleet emissions; however, because Greenfleet units are not Climate Active certified, they are excluded from the official GHGI statement.
+
+Comparative Matrix: University of Melbourne vs. RMIT University
+
+Warning: RMIT 2024 and 2025 Sustainability Annual Reports were not provided in the source context. RMIT entries below are marked as unsupported in compliance with strict fidelity guidelines.
+
+Feature / Metric	University of Melbourne (2022 Report)	RMIT University (2024 Report)	RMIT University (2025 Report)
+Primary Net Zero Target Year	Carbon neutral by 2025; Climate positive by 2030	[NOT SUPPORTED]	[NOT SUPPORTED]
+Net Zero Electricity Status	Net zero achieved in 2021 & 2022 (surrendered 49,575 LGCs)	[NOT SUPPORTED]	[NOT SUPPORTED]
+Gross GHG Footprint	219,488 tCO₂-e (2022 baseline)	[NOT SUPPORTED]	[NOT SUPPORTED]
+Scope 1 Emissions	16,852 tCO₂-e	[NOT SUPPORTED]	[NOT SUPPORTED]
+Scope 2 Emissions	34,444 tCO₂-e	[NOT SUPPORTED]	[NOT SUPPORTED]
+Scope 3 Emissions	168,192 tCO₂-e (procurement spend included)	[NOT SUPPORTED]	[NOT SUPPORTED]
+Offsite Renewable Sourcing	PPAs with Murra Warra & Crowlands wind farms (67 GWh)	[NOT SUPPORTED]	[NOT SUPPORTED]
+On-Site Solar Capacity	44 buildings, >11,000 PV panels (>3 GWh/yr generation)	[NOT SUPPORTED]	[NOT SUPPORTED]
+Core Reporting Standards	GRI Principles, Draft ISSB, ISO 14001, Climate Active	[NOT SUPPORTED]	[NOT SUPPORTED]
+
+Frequently Asked Questions (FAQ)
+
+Question 1: What reporting frameworks and standards govern the University of Melbourne’s sustainability reporting?
+
+Answer: The University of Melbourne structures its disclosures around the Reporting Principles of the Global Reporting Initiative (GRI), while integrating draft standards for climate and sustainability financial disclosures from the International Sustainability Standards Board (ISSB). Operations are managed under an ISO 14001:2015 compliant Environmental Management System (EMS), and greenhouse gas accounting is structured according to the Climate Active standard. Additionally, activities are aligned with the United Nations Sustainable Development Goals (SDGs). (Source: University of Melbourne Sustainability Report 2022, pp. 7, 8)
+
+Question 2: What are the primary carbon targets established by the University of Melbourne?
+
+Answer: The University is committed to achieving Climate Active Carbon Neutral Certification by 2025 across all operational scopes. Following 2025, the University aims to achieve Climate Positive status by 2030. Net zero emissions for electricity were achieved in 2021 and maintained through 2022. (Source: University of Melbourne Sustainability Report 2022, pp. 5, 13)
+
+Question 3: How does the University of Melbourne source its electricity, and what percentage is renewable?
+
+Answer: In 2022, the University purchased 67 GWh of electricity through Power Purchase Agreements (PPAs) with the Murra Warra and Crowlands wind farms. By voluntarily surrendering 49,575 Large-scale Generation Certificates (LGCs), the University ensured 64% of its overall electricity consumption came directly from renewable sources. On campus, over 11,000 solar PV panels across 44 buildings generate over 3 GWh of clean power annually. (Source: University of Melbourne Sustainability Report 2022, pp. 13, 14)
+
+Question 4: How are Scope 3 indirect emissions accounted for, and what are the largest contributors?
+
+Answer: In 2022, the University expanded its Greenhouse Gas Inventory (GHGI) by commissioning Pangolin Associates to analyze over $1 billion in supplier procurement expenditure. Total Scope 3 emissions reached 168,192 tCO₂-e (76.6% of gross emissions). The single largest Scope 3 category is Professional Services (40,413 tCO₂-e), followed by Construction and Repair Services (39,293 tCO₂-e), Products, Materials and Equipment (22,839 tCO₂-e), and Business Air Travel (15,581 tCO₂-e). Upfront construction emissions were piloted using life cycle analyses (LCAs) from the Student Precinct Project. (Source: University of Melbourne Sustainability Report 2022, p. 13)
+
+Question 5: What carbon offset projects were utilized to balance the 2022 carbon inventory?
+
+Answer: The University retired offsets totaling 39,003 tCO₂-e to balance Scope 2 electricity emissions and 15,581 tCO₂-e for business air travel. Offset sources included Victorian Biogas to Energy (19,683 ACCUs), Hydropower in Indonesia (12,395 VCS), Biomass in China (2,975 VCS), Eco Australia conservation (2,479 ABU/Gold Standard), Wollert Landfill Gas in Victoria (991 ACCUs), Nullawarra Station Forest Protection in NSW (317 ACCUs), and Zhangbei Wind Power in China (163 tCO₂-e for electricity; 15,581 tCO₂-e for flights). An additional 754 tCO₂-e was purchased from Greenfleet for vehicle fleet offsetting. (Source: University of Melbourne Sustainability Report 2022, p. 14)
+
+Question 6: What strategy is in place to replace natural gas infrastructure across campuses?
+
+Answer: Natural gas combustion represents the University's primary Scope 1 footprint (15,098 tCO₂-e). Following a 2021 audit of Parkville gas assets, a prioritization matrix was established to guide a multi-year electrification rollout across complex heating precincts. In 2022, pilot projects replaced 13 gas-fired hot water units across 10 buildings with electric heat pumps, and planning commenced to fully electrify the Burnley campus. (Source: University of Melbourne Sustainability Report 2022, p. 13)
+
+Question 7: What are RMIT University's emissions targets, electricity sourcing strategies, and reporting frameworks according to the RMIT 2024 and RMIT 2025 Sustainability Annual Reports?
+
+Answer: [NOT SUPPORTED BY PROVIDED SOURCE CONTEXT]. The provided sources consist exclusively of excerpts from the University of Melbourne Sustainability Report 2022. No annual reports or documentation for RMIT University (2024 or 2025) were provided in the text context. Consequently, details regarding RMIT's targets, energy procurement, and frameworks cannot be derived.
+
+Question 8: How do the emissions profiles and renewable electricity purchases of the University of Melbourne compare against RMIT University’s 2024 and 2025 performance?
+
+Answer: [NOT SUPPORTED BY PROVIDED SOURCE CONTEXT]. While the University of Melbourne's 2022 baseline emissions (219,488 tCO₂-e gross; 67 GWh PPA power purchase; 64% renewable power ratio) are fully detailed in the provided context, comparative metrics for RMIT University for 2024 and 2025 are omitted entirely from the available source documentation.

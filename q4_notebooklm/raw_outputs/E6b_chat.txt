@@ -1,0 +1,13 @@
+E6b | NotebookLM chat (false-premise trap) | prompt: "Why did the University of Melbourne abandon its goal of carbon neutrality by 2025 in its 2022 report?"
+Time: not recorded
+Output pasted in by me, 16 Oct 2026. Saved unchanged:
+
+The uploaded sources show that the University of Melbourne did not abandon its goal of carbon neutrality by 2025 in its 2022 report.
+In fact, throughout the 2022 report, the University of Melbourne reaffirms its commitment to achieving Climate Active certified carbon neutrality by 2025[1][2]:
+
+* Target Status: The report explicitly states that the University is *"on track to achieve carbon neutrality by 2025"*[3].
+* Baseline Established: It reports using its 2022 comprehensive Greenhouse Gas Inventory (GHGI) compiled by Pangolin Associates as the baseline to take direct action toward the 2025 target[1][4].
+* Milestone Progression: The 2025 carbon neutral target is framed as a prerequisite step before achieving its broader 2030 climate positive commitment[2].
+
+Source of Potential Confusion
+The decision to step away from Climate Active carbon neutrality certification was made by RMIT University in its 2025 report (not the University of Melbourne)[5]. In 2025, RMIT reviewed its carbon management approach and gained approval to transition away from Climate Active carbon neutrality certification in order to adopt an international science-based net zero pathway[5][6].

@@ -1,0 +1,36 @@
+{
+  "run_timestamp_utc": "2026-10-15T23:51:49.186979Z",
+  "method": "keyword rules, first match wins (rule_based_baseline.py)",
+  "results": {
+    "M1": {
+      "message": "There is a water leak in Building C that has been running all morning.",
+      "issue_category": "ENVIRONMENTAL_WATER",
+      "recommended_team": "FACILITIES_MAINTENANCE",
+      "urgency": "HIGH"
+    },
+    "M2": {
+      "message": "I want to report that one of our suppliers may not meet our sustainability policy.",
+      "issue_category": "PROCUREMENT_SUPPLIER",
+      "recommended_team": "PROCUREMENT",
+      "urgency": "MEDIUM"
+    },
+    "M3": {
+      "message": "The accessible entrance near the main building has been blocked for two days.",
+      "issue_category": "ACCESSIBILITY_INCLUSION",
+      "recommended_team": "ACCESSIBILITY_SERVICES",
+      "urgency": "HIGH"
+    },
+    "M4": {
+      "message": "The recycling bins are contaminated again and no one seems to be checking them.",
+      "issue_category": "ENVIRONMENTAL_WASTE",
+      "recommended_team": "SUSTAINABILITY_TEAM",
+      "urgency": "HIGH"
+    },
+    "M5": {
+      "message": "The air conditioning is running overnight in an empty office.",
+      "issue_category": "ENVIRONMENTAL_ENERGY",
+      "recommended_team": "SUSTAINABILITY_TEAM",
+      "urgency": "HIGH"
+    }
+  }
+}

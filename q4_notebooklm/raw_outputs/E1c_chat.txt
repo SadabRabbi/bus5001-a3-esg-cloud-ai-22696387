@@ -1,0 +1,37 @@
+E1-c | NotebookLM chat | prompt: "Using only the uploaded sources, which reporting framework does each of the three reports say it follows, and does each say whether the report was externally assured? Answer separately for each report and cite the source passage."
+Time: not recorded
+Output pasted in by me, 16 Oct 2026. Saved unchanged:
+
+1. University of Melbourne Sustainability Report 2022
+
+* Reporting Framework:
+   * The report is informed by the **Reporting Principles from the Global Reporting Initiative (GRI)**[1].
+   * It draws upon the draft standards on sustainability-related and climate-related financial disclosures developed by the **International Sustainability Standards Board (ISSB)**[1].
+   * Reporting is structured around the University's overarching Sustainability Plan 2030 (SP2030) and links its initiatives to the **UN Sustainable Development Goals (SDGs)**[1][2].
+* External Assurance:
+   * The report does not state that the report as a whole underwent external assurance[1].
+   * It does, however, note specific external audits and certifications for individual operational components:
+      * Its inaugural Green Bond was externally audited for the period ending 31 December 2022 and found to align with Green Bond Principles[3].
+      * Its Environmental Management System (EMS) complies with international standard ISO 14001:2015[4].
+      * Its Greenhouse Gas Inventory (GHGI) was prepared by external specialists (Pangolin Associates) to be Climate Active compliant[5].
+
+2. RMIT 2024 Sustainability Annual Report
+
+* Reporting Framework:
+   * The report was prepared in accordance with the Global Reporting Initiative (GRI) Standards: Core option[6].
+   * Content definition and materiality processes are informed by GRI Reporting Principles and guided by the AA1000 standard[7].
+   * It utilizes the UN Sustainable Development Goals (SDGs) to map and evaluate organizational impact across teaching, research, and operations[7][8].
+* External Assurance:
+   * The report explicitly states that the contained information has not been externally assured[6].
+   * Separately, it notes that RMIT Property Services is certified and externally audited against five specific ISO management system standards (ISO 9001, 14001, 41001, 45001, 55001)[9].
+
+3. RMIT 2025 Sustainability Annual Report
+
+* Reporting Framework:
+   * The report was prepared in accordance with the Global Reporting Initiative (GRI) Standards: Core option[10].
+   * Content selection and materiality are guided by GRI Reporting Principles and the AA1000 standard[11].
+   * Strategic alignment and tracking are structured around the UN Sustainable Development Goals (SDGs) and the UN Global Compact[12].
+* External Assurance:
+   * In Section 1.1, the report notes that the information has not been externally assured[10].
+   * However, in the GRI Disclosure index (Disclosure 2-5), the report clarifies that RMIT operates on a two-year assurance cycle, noting that external assurance was completed for the 2024 cycle, so none was sought for 2025[13].
+   * Like the previous year, Property Services Group operations maintain external certification and auditing against five ISO standards[14].

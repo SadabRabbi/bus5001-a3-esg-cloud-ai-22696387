@@ -1,0 +1,37 @@
+E1-a | NotebookLM chat | prompt: "Using only the uploaded sources, what carbon or greenhouse gas emissions target and deadline does the University of Melbourne Sustainability Report 2022 state, and what progress does it report against that target? Cite the source passage for every claim."
+Time: not recorded
+Output pasted in by me, 16 Oct 2026. Saved unchanged (citation numbers [n] as shown by NotebookLM):
+
+According to the University of Melbourne Sustainability Report 2022, the University has established two primary carbon and greenhouse gas emissions targets along with specific progress milestones[1]:
+1. Emissions Targets and Deadlines
+
+* 2025 Carbon Neutral Target: The University target is to be certified carbon neutral by 2025 under Climate Active standards across its operations[1].
+* 2030 Climate Positive Target: The University target is to achieve climate positive status by 2030[3]. This commitment extends to including its entire Investment Portfolio within its Scope 3 emissions reporting and climate positive targets by 2030[5][6].
+
+2. Reported Progress Against These Targets (in 2022)
+Comprehensive Baseline & Inventory Expansion
+
+* Commissioned carbon specialists Pangolin Associates to create a comprehensive, Climate Active–compliant Greenhouse Gas Inventory (GHGI) for 2022 to establish the baseline needed to achieve the 2025 carbon neutral target[2][7].
+* Expanded Scope 3 tracking by incorporating the University's entire procurement spend of over $1 billion across all purchasing categories[7], as well as staff working-from-home (WFH) emissions (2,313 tCO₂-e) for the first time[8].
+* Total reported net greenhouse gas emissions for 2022 stood at 164,904 tCO₂-e[9].
+
+Electricity & Renewable Energy
+
+* Achieved zero net emissions from electricity for the second consecutive year in 2022[2][10].
+* Sourced 64% of total electricity consumption from renewable sources by voluntarily retiring 49,575 Large-scale Generation Certificates (LGCs), primarily sourced from wind farm Power Purchase Agreements (Murra Warra and Crowlands)[2][11].
+* Retired carbon offsets covering the residual electricity emissions of approximately 39,000 tCO₂-e[9].
+* Generated over 3 GWh of clean energy annually on campus from more than 11,000 solar PV panels across 44 buildings[12].
+
+Electrification & Campus Energy Upgrades
+
+* Invested $6 million in Smart Campus Energy Upgrades (LED lighting, chiller upgrades, solar PV, and HVAC optimization), delivering expected electricity savings of 3.8 GWh per year[10][12].
+* Began a long-term electrification program to replace natural gas infrastructure with electric systems, completing pilot projects that replaced 13 gas hot-water units across 10 buildings with electric heat pumps and scoping full electrification for the Burnley campus[4].
+
+Business Travel & Fleet Emissions
+
+* Fully offset business flight emissions of 15,581 tCO₂-e[9].
+* Offsets totaling 754 tCO₂-e were purchased through Greenfleet for vehicle fleet emissions (315 tCO₂-e)[9][11].
+
+Investment Portfolio
+
+* Established a baseline for equity investments, measuring combined Australian and International Equities carbon emissions at 95,649 tCO₂-e, which performed below the total benchmark of 109,066 tCO₂-e[13][14].
