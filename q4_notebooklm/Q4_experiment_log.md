@@ -27,7 +27,8 @@ All three sources were uploaded to one notebook and stayed ticked for every expe
 
 | ID | Title | Publisher | Year | Text available for checking |
 |---|---|---|---|---|
-| S1 | Sustainability Report 2022 | University of Melbourne | 2022 | S2 | Sustainability Annual Report 2024 | RMIT University | 2024 | First pass: part only (text stopped at report page 68). Later: full PDF, 148 pages |
+| S1 | Sustainability Report 2022 | University of Melbourne | 2022 | Full text (37 pages) | 
+| S2 | Sustainability Annual Report 2024 | RMIT University | 2024 | First pass: part only (text stopped at report page 68). Later: full PDF, 148 pages |
 | S3 | Sustainability Annual Report 2025 | RMIT University | 2025 (calendar year) | First pass: part only. Later: full PDF, 170 pages |
 
 URLs are in `sources/sources.md`. The PDFs are not copied into this repository.
