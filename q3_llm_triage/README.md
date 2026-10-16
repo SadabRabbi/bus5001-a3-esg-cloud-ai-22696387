@@ -21,4 +21,4 @@ A revised triage prompt (v2), nine real runs of it (three messages, three runs e
 All nine outputs were valid JSON with exact evidence quotes. Urgency and team varied on identical input for M1 (HIGH once, MEDIUM twice), and the human-review flag was true in all runs because of a vague rule in my prompt. Three messages run three times are far too few to prove reliability.
 
 ## Limits
-Temperature was not visible and was not recorded. Expected labels are one person's judgement. Bias and prompt injection were not tested.
+Temperature was not visible and was not recorded. Expected labels are one person's judgement. No controlled bias or prompt-injection test was run.
